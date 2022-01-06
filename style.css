@@ -237,6 +237,12 @@ nav .logo {
 				height: 50px;
 				border-radius : 24px;
 				}
+.projects .container  button a {
+color : black;
+} 
+.projects .container  button a:hover {
+color : white ;
+} 
 				.projects .container .btn {
 					display: flex;
 				justify-content: center ;
