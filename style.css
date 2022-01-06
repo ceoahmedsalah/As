@@ -239,6 +239,7 @@ nav .logo {
 				}
 .projects .container  button a {
 color : black;
+text-decoration :none;
 } 
 .projects .container  button a:hover {
 color : white ;
